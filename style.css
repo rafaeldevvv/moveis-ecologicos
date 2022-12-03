@@ -8,6 +8,7 @@ ul {
 }
 li {
     font-family: monospace;
+    padding: 1em 0;
 }
 body {
     max-width: 100%;
